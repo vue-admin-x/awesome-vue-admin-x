@@ -6,6 +6,7 @@ A curated list of awesome things related to vue-admin-x
 - [detect-browser](https://github.com/Ahmdrza/detect-browser) - A JavaScript library to detect browser properties like browser name, device, OS, referrer, timezone, screen resolution and much more.
 - [screen-dpi-detector](https://github.com/jorgegilramos/screen-dpi-detector) - Screen resolution pixel density (dppx, dpi) detector in javascript. Also indentify ldpi, mdpi, hdpi, xhdpi, xxhdpi and xxxhdpi displays.
 - [browser-locale](https://github.com/maxogden/browser-locale) - normalizes weird cross browser issues and tries to return the users selected language in 100% client side JS by looking at various properties on the `window.navigator` object.
+- [locale2](https://github.com/moimikey/locale2) - Try as hard as possible to detect the client's language tag ("locale") in node or the browser. Browserify and Webpack friendly!
 - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin which hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
 - [v-contextmenu](https://github.com/heynext/v-contextmenu) - ContextMenu based on Vue.
 - [xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic.
