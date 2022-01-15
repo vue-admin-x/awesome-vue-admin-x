@@ -19,3 +19,7 @@ A curated list of awesome things related to vue-admin-x
 - [sheetjs](https://github.com/SheetJS/sheetjs) - SheetJS Community Edition -- Spreadsheet Data Toolkit.
 - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager.
 - [docxjs](https://github.com/zVolodymyr/docxjs) - Docx rendering library.
+- [jsencrypt](https://github.com/travist/jsencrypt) - A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
+- [chancejs](https://github.com/chancejs/chancejs) - Chance - Random generator helper for JavaScript.
+- [screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API.
+- [chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib.
