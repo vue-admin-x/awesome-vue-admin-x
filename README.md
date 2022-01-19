@@ -39,4 +39,5 @@ A curated list of awesome things related to vue-admin-x
 - [jsencrypt](https://github.com/travist/jsencrypt) - A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 - [chancejs](https://github.com/chancejs/chancejs) - Chance - Random generator helper for JavaScript.
 - [screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API.
+- [mxGraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library.
 - [chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib.
