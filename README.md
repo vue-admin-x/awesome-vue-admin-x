@@ -16,6 +16,7 @@ A curated list of awesome things related to vue-admin-x
 ## Library - devDependencies
 - [clear-module](https://github.com/sindresorhus/clear-module) - Clear a module from the cache.
 - [Chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library.
+- [JsonWebToken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js.
 
 ## Library
 - [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library.
