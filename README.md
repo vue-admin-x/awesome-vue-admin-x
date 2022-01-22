@@ -14,6 +14,7 @@ A curated list of awesome things related to vue-admin-x
 - [Auto Rename Tag](https://github.com/formulahendry/vscode-auto-rename-tag) - Auto rename paired HTML/XML tag.
 
 ## Library - devDependencies
+- [clear-module](https://github.com/sindresorhus/clear-module) - Clear a module from the cache.
 
 ## Library
 - [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library.
