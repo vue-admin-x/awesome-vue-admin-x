@@ -26,6 +26,7 @@ A curated list of awesome things related to vue-admin-x
 - [browser-locale](https://github.com/maxogden/browser-locale) - normalizes weird cross browser issues and tries to return the users selected language in 100% client side JS by looking at various properties on the `window.navigator` object.
 - [locale2](https://github.com/moimikey/locale2) - Try as hard as possible to detect the client's language tag ("locale") in node or the browser. Browserify and Webpack friendly!
 - [dayjs](https://github.com/iamkun/dayjs) - Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API.
+- [JavaScript MD5](https://github.com/blueimp/JavaScript-MD5) - JavaScript MD5 implementation. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.
 - [echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser.
 - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin which hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
 - [v-contextmenu](https://github.com/heynext/v-contextmenu) - ContextMenu based on Vue.
