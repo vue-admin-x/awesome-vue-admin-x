@@ -46,3 +46,5 @@ A curated list of awesome things related to vue-admin-x
 - [NProgress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc.
 - [mxGraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library.
 - [chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib.
+- [Quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+
