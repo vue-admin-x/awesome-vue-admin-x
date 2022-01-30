@@ -47,4 +47,4 @@ A curated list of awesome things related to vue-admin-x
 - [mxGraph](https://github.com/jgraph/mxgraph) - mxGraph is a fully client side JavaScript diagramming library.
 - [chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib.
 - [Quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-
+- [Iconify](https://github.com/iconify/iconify) - Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!
