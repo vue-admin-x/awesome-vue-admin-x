@@ -52,3 +52,4 @@ A curated list of awesome things related to vue-admin-x
 - [vue-photo-zoom-pro](https://github.com/mater1996/vue-photo-zoom-pro) - Vue picture magnifier.
 - [Cropper.js](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) - QR code component for Vue.js.
+- [shn-vue-ui](https://github.com/ShnHz/shn-ui) - shn-vue-ui.
