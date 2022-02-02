@@ -55,3 +55,4 @@ A curated list of awesome things related to vue-admin-x
 - [shn-vue-ui](https://github.com/ShnHz/shn-ui) - shn-vue-ui.
 - [markdown-editor](https://github.com/wumaimai/components) - markdown-editor.
 - [Vue Layout System](https://github.com/LeeBoYin/vue-layout-system) - A pack of Vue components that solve daily layout problems.
+- [Prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
