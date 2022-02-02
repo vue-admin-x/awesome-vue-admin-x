@@ -56,3 +56,4 @@ A curated list of awesome things related to vue-admin-x
 - [markdown-editor](https://github.com/wumaimai/components) - markdown-editor.
 - [Vue Layout System](https://github.com/LeeBoYin/vue-layout-system) - A pack of Vue components that solve daily layout problems.
 - [Prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+- [vxe-table](https://github.com/x-extends/vxe-table) - A vue based table component.
