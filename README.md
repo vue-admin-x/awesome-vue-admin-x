@@ -57,3 +57,8 @@ A curated list of awesome things related to vue-admin-x
 - [Vue Layout System](https://github.com/LeeBoYin/vue-layout-system) - A pack of Vue components that solve daily layout problems.
 - [Prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [vxe-table](https://github.com/x-extends/vxe-table) - A vue based table component.
+
+## Tool
+- [chuangkit](https://www.chuangkit.com/) - chuangkit.
+- [pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.
+- [Vue PWA asset generator](https://github.com/jcalixte/vue-pwa-asset-generator) - PWA asset generator perfect with VueJS framework (but useful for all PWA!).
