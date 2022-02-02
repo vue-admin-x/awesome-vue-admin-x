@@ -60,5 +60,6 @@ A curated list of awesome things related to vue-admin-x
 
 ## Tool
 - [chuangkit](https://www.chuangkit.com/) - chuangkit.
+- [autotracer](https://www.autotracer.org/zh.html) - autotracer.
 - [pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.
 - [Vue PWA asset generator](https://github.com/jcalixte/vue-pwa-asset-generator) - PWA asset generator perfect with VueJS framework (but useful for all PWA!).
