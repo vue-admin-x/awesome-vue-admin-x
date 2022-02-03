@@ -53,6 +53,7 @@ A curated list of awesome things related to vue-admin-x
 - [Cropper.js](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper.
 - [vue-qrcode](https://github.com/fengyuanchen/vue-qrcode) - QR code component for Vue.js.
 - [shn-vue-ui](https://github.com/ShnHz/shn-ui) - shn-vue-ui.
+- [SimpleMDE](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [markdown-editor](https://github.com/wumaimai/components) - markdown-editor.
 - [Vue Layout System](https://github.com/LeeBoYin/vue-layout-system) - A pack of Vue components that solve daily layout problems.
 - [Prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
