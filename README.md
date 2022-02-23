@@ -66,4 +66,5 @@ A curated list of awesome things related to vue-admin-x
 - [Vue PWA asset generator](https://github.com/jcalixte/vue-pwa-asset-generator) - PWA asset generator perfect with VueJS framework (but useful for all PWA!).
 
 ## Resources
-- [thenounproject](https://thenounproject.com/) - Icons and Photos For Everything
+- [thenounproject](https://thenounproject.com/) - Icons and Photos For Everything.
+- [designevo](https://www.designevo.com/apps/logo/) - Free online logo maker.
