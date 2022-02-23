@@ -61,6 +61,7 @@ A curated list of awesome things related to vue-admin-x
 - [anime.js](https://github.com/juliangarnier/anime) - JavaScript animation engine.
 - [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
 - [SVG.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG.
+- [opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
 
 ## Tool
 - [chuangkit](https://www.chuangkit.com/) - chuangkit.
