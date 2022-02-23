@@ -58,6 +58,9 @@ A curated list of awesome things related to vue-admin-x
 - [Vue Layout System](https://github.com/LeeBoYin/vue-layout-system) - A pack of Vue components that solve daily layout problems.
 - [Prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [vxe-table](https://github.com/x-extends/vxe-table) - A vue based table component.
+- [anime.js](https://github.com/juliangarnier/anime) - JavaScript animation engine.
+- [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
+- [SVG.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG.
 
 ## Tool
 - [chuangkit](https://www.chuangkit.com/) - chuangkit.
