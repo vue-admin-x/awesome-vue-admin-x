@@ -62,6 +62,8 @@ A curated list of awesome things related to vue-admin-x
 - [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
 - [SVG.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG.
 - [opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
+- [typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版.
+- [Fonts.css](https://github.com/zenozeng/fonts.css) - 跨平台 CSS 中文字体解决方案
 
 ## Tool
 - [chuangkit](https://www.chuangkit.com/) - chuangkit.
@@ -72,3 +74,4 @@ A curated list of awesome things related to vue-admin-x
 ## Resources
 - [thenounproject](https://thenounproject.com/) - Icons and Photos For Everything.
 - [designevo](https://www.designevo.com/apps/logo/) - Free online logo maker.
+- [如何优雅的选择默认字体](http://www.imooc.com/course/list) - 如何优雅的选择默认字体.
