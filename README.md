@@ -67,6 +67,9 @@ A curated list of awesome things related to vue-admin-x
 - [kpi-ui](https://github.com/clearink/kpi-ui) - kpi ui design components.
 - [Vue Signature Pad](https://github.com/neighborhood999/vue-signature-pad) - Vue Signature Pad Component
 - [Driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page.
+- [Intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library.
+- [vue-shepherd](https://github.com/shipshapecode/vue-shepherd) - A Vue wrapper for the site tour library Shepherd.
+- [Vue Tour](https://github.com/pulsardev/vue-tour) - Vue Tour is a lightweight, simple and customizable guided tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.
 
 ## Tool
 - [chuangkit](https://www.chuangkit.com/) - chuangkit.
