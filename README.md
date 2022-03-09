@@ -66,6 +66,7 @@ A curated list of awesome things related to vue-admin-x
 - [Fonts.css](https://github.com/zenozeng/fonts.css) - 跨平台 CSS 中文字体解决方案
 - [kpi-ui](https://github.com/clearink/kpi-ui) - kpi ui design components.
 - [Vue Signature Pad](https://github.com/neighborhood999/vue-signature-pad) - Vue Signature Pad Component
+- [Driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page.
 
 ## Tool
 - [chuangkit](https://www.chuangkit.com/) - chuangkit.
