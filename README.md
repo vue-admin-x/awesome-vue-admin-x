@@ -29,6 +29,7 @@ A curated list of awesome things related to vue-admin-x
 - [JavaScript MD5](https://github.com/blueimp/JavaScript-MD5) - JavaScript MD5 implementation. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.
 - [echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser.
 - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin which hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
+- [gemini-scrollbar](https://github.com/noeldelgado/gemini-scrollbar) - Custom overlay-scrollbars with native scrolling mechanism for web applications.
 - [v-contextmenu](https://github.com/heynext/v-contextmenu) - ContextMenu based on Vue.
 - [xgplayer](https://github.com/bytedance/xgplayer) - A HTML5 video player with a parser that saves traffic.
 - [xgplayer-vue](https://github.com/bytedance/xgplayer-vue) - Vue component for xgplayer, a HTML5 video player with a parser that saves traffic.
