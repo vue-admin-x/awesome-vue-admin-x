@@ -62,6 +62,7 @@ A curated list of awesome things related to vue-admin-x
 - [anime.js](https://github.com/juliangarnier/anime) - JavaScript animation engine.
 - [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
 - [SVG.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG.
+- [SVGPath](https://github.com/aydos/svgpath) - SVG path segments parser and optimiser.
 - [opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
 - [typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版.
 - [Fonts.css](https://github.com/zenozeng/fonts.css) - 跨平台 CSS 中文字体解决方案
@@ -72,6 +73,7 @@ A curated list of awesome things related to vue-admin-x
 - [vue-shepherd](https://github.com/shipshapecode/vue-shepherd) - A Vue wrapper for the site tour library Shepherd.
 - [Vue Tour](https://github.com/pulsardev/vue-tour) - Vue Tour is a lightweight, simple and customizable guided tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.
 - [RVerify.js](https://github.com/zpfz/RVerify.js) - A lightweight image rotation verification plugin.
+- [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - 中华新华字典数据库。包括歇后语，成语，词语，汉字.
 
 ## Tool
 - [chuangkit](https://www.chuangkit.com/) - chuangkit.
