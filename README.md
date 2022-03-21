@@ -75,6 +75,7 @@ A curated list of awesome things related to vue-admin-x
 - [RVerify.js](https://github.com/zpfz/RVerify.js) - A lightweight image rotation verification plugin.
 - [vue-monoplasty-slide-verify](https://github.com/monoplasty/vue-monoplasty-slide-verify) - A Vue plugin to slide verify.
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - 中华新华字典数据库。包括歇后语，成语，词语，汉字.
+- [vue-wxlogin](https://github.com/toMatthew/vue-wxlogin) - vue微信登陆compoment，按照wxLogin.js写的简单components，参数与wx的一致.
 
 ## Tool
 - [chuangkit](https://www.chuangkit.com/) - chuangkit.
