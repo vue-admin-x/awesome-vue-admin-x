@@ -66,6 +66,7 @@ A curated list of awesome things related to vue-admin-x
 - [opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
 - [typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版.
 - [Fonts.css](https://github.com/zenozeng/fonts.css) - 跨平台 CSS 中文字体解决方案
+- [Permission Vue](https://github.com/thiagoanselmo/permission-vue) - Vue Access control list.
 - [kpi-ui](https://github.com/clearink/kpi-ui) - kpi ui design components.
 - [Vue Signature Pad](https://github.com/neighborhood999/vue-signature-pad) - Vue Signature Pad Component
 - [Driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page.
