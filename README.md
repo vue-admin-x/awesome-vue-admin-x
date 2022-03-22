@@ -91,5 +91,6 @@ A curated list of awesome things related to vue-admin-x
 - [thenounproject](https://thenounproject.com/) - Icons and Photos For Everything.
 - [designevo](https://www.designevo.com/apps/logo/) - Free online logo maker.
 - [如何优雅的选择默认字体](http://www.imooc.com/course/list) - 如何优雅的选择默认字体.
+- [免费中文字体](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体.
 - [浅谈 Node.js 热更新](https://zhuanlan.zhihu.com/p/460359101) - 浅谈 Node.js 热更新.
 - [基于角色&属性的权限设计](http://www.woshipm.com/pd/5330566.html/comment-page-1) - B端设计实战：基于角色&属性的权限设计.
