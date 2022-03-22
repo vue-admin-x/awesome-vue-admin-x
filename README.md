@@ -78,6 +78,7 @@ A curated list of awesome things related to vue-admin-x
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - 中华新华字典数据库。包括歇后语，成语，词语，汉字.
 - [中文人名语料库](https://github.com/wainshine/Chinese-Names-Corpus) - 中文人名语料库。人名生成器。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。可用于中文分词、人名实体识别.
 - [vue-wxlogin](https://github.com/toMatthew/vue-wxlogin) - vue微信登陆compoment，按照wxLogin.js写的简单components，参数与wx的一致.
+- [PrimeVue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library.
 
 ## Tool
 - [chuangkit](https://www.chuangkit.com/) - chuangkit.
