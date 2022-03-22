@@ -67,7 +67,8 @@ A curated list of awesome things related to vue-admin-x
 - [SVGPath](https://github.com/aydos/svgpath) - SVG path segments parser and optimiser.
 - [opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
 - [typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版.
-- [Fonts.css](https://github.com/zenozeng/fonts.css) - 跨平台 CSS 中文字体解决方案
+- [Fonts.css](https://github.com/zenozeng/fonts.css) - 跨平台 CSS 中文字体解决方案.
+- [Font-Detect.js](https://github.com/zenozeng/font-detect.js) - Detect font without flash, simply using javascript & @font-face.
 - [Permission Vue](https://github.com/thiagoanselmo/permission-vue) - Vue Access control list.
 - [kpi-ui](https://github.com/clearink/kpi-ui) - kpi ui design components.
 - [Vue Signature Pad](https://github.com/neighborhood999/vue-signature-pad) - Vue Signature Pad Component
