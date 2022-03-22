@@ -27,6 +27,8 @@ A curated list of awesome things related to vue-admin-x
 - [locale2](https://github.com/moimikey/locale2) - Try as hard as possible to detect the client's language tag ("locale") in node or the browser. Browserify and Webpack friendly!
 - [dayjs](https://github.com/iamkun/dayjs) - Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API.
 - [JavaScript MD5](https://github.com/blueimp/JavaScript-MD5) - JavaScript MD5 implementation. Compatible with server-side environments like node.js, module loaders like RequireJS and all web browsers.
+- [jsencrypt](https://github.com/travist/jsencrypt) - A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
+- [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
 - [echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser.
 - [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin which hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling.
 - [gemini-scrollbar](https://github.com/noeldelgado/gemini-scrollbar) - Custom overlay-scrollbars with native scrolling mechanism for web applications.
@@ -41,7 +43,6 @@ A curated list of awesome things related to vue-admin-x
 - [sheetjs](https://github.com/SheetJS/sheetjs) - SheetJS Community Edition -- Spreadsheet Data Toolkit.
 - [exceljs](https://github.com/exceljs/exceljs) - Excel Workbook Manager.
 - [docxjs](https://github.com/zVolodymyr/docxjs) - Docx rendering library.
-- [jsencrypt](https://github.com/travist/jsencrypt) - A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 - [chancejs](https://github.com/chancejs/chancejs) - Chance - Random generator helper for JavaScript.
 - [screenfull](https://github.com/sindresorhus/screenfull) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API.
 - [NProgress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc.
