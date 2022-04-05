@@ -78,6 +78,8 @@ A curated list of awesome things related to vue-admin-x
 - [Vue Tour](https://github.com/pulsardev/vue-tour) - Vue Tour is a lightweight, simple and customizable guided tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.
 - [RVerify.js](https://github.com/zpfz/RVerify.js) - A lightweight image rotation verification plugin.
 - [vue-monoplasty-slide-verify](https://github.com/monoplasty/vue-monoplasty-slide-verify) - A Vue plugin to slide verify.
+- [zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation.
+- [vue-password-strength-meter](https://github.com/apertureless/vue-password-strength-meter) - Password strength meter based on zxcvbn in vue.js.
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - 中华新华字典数据库。包括歇后语，成语，词语，汉字.
 - [中文人名语料库](https://github.com/wainshine/Chinese-Names-Corpus) - 中文人名语料库。人名生成器。中文姓名,姓氏,名字,称呼,日本人名,翻译人名,英文人名。可用于中文分词、人名实体识别.
 - [中文姓名](https://github.com/so-coolboy/name_classification) - 使用CNN对姓名是男是女进行预测.
