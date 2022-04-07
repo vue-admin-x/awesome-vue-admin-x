@@ -92,6 +92,7 @@ A curated list of awesome things related to vue-admin-x
 - [autotracer](https://www.autotracer.org/zh.html) - autotracer.
 - [pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated images according to Web App Manifest specs and Apple Human Interface guidelines.
 - [Vue PWA asset generator](https://github.com/jcalixte/vue-pwa-asset-generator) - PWA asset generator perfect with VueJS framework (but useful for all PWA!).
+- [IcoMoon](https://icomoon.io/) - Pixel Perfect Icon Solutions.
 
 ## Resources
 - [thenounproject](https://thenounproject.com/) - Icons and Photos For Everything.
@@ -100,3 +101,4 @@ A curated list of awesome things related to vue-admin-x
 - [免费中文字体](https://github.com/zenozeng/Free-Chinese-Fonts) - 免费中文字体.
 - [浅谈 Node.js 热更新](https://zhuanlan.zhihu.com/p/460359101) - 浅谈 Node.js 热更新.
 - [基于角色&属性的权限设计](http://www.woshipm.com/pd/5330566.html/comment-page-1) - B端设计实战：基于角色&属性的权限设计.
+- [矢量字体图标文件生成](https://zhuanlan.zhihu.com/p/30633407) - 矢量字体图标文件生成.
