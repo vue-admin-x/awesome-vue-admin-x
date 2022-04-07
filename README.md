@@ -86,6 +86,7 @@ A curated list of awesome things related to vue-admin-x
 - [手机号码归属地](https://github.com/xluohome/phonedata) - 手机号码归属地信息库、手机号归属地查询.
 - [vue-wxlogin](https://github.com/toMatthew/vue-wxlogin) - vue微信登陆compoment，按照wxLogin.js写的简单components，参数与wx的一致.
 - [PrimeVue](https://github.com/primefaces/primevue) - Next Generation Vue UI Component Library.
+- [DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库
 
 ## Tool
 - [chuangkit](https://www.chuangkit.com/) - chuangkit.
